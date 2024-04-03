@@ -1,1 +1,1 @@
-# OdinProject
+This project aims at creating odin recipes website.
